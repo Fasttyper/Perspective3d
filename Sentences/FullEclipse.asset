@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f6976b9372ec5d44b46350779f733e1, type: 3}
+  m_Name: FullEclipse
+  m_EditorClassIdentifier: 
+  sentenceName: FullEclipse
+  text: A full eclipse, often referred to as a total eclipse, is a remarkable natural
+    phenomenon that occurs when one celestial body completely obscures another from
+    view. The most common type of full eclipse observed on Earth is a total solar
+    eclipse.
+  voiceClip: {fileID: 0}
+  timeToShow: 10
+  isQuestion: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f6976b9372ec5d44b46350779f733e1, type: 3}
+  m_Name: PartialEclipse
+  m_EditorClassIdentifier: 
+  sentenceName: PartialEclipse
+  text: A partial eclipse is a celestial event that occurs when one celestial body
+    partially obscures another from view. There can be both partial solar eclipses
+    and partial lunar eclipses, depending on which celestial bodies are involved.
+  voiceClip: {fileID: 8300000, guid: 7f42ac949e7c2df44bc0873fbaedec00, type: 3}
+  timeToShow: 10
+  isQuestion: 0

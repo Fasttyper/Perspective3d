@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f6976b9372ec5d44b46350779f733e1, type: 3}
+  m_Name: SolarEclipse
+  m_EditorClassIdentifier: 
+  sentenceName: SolarEclipse
+  text: A solar eclipse is a natural astronomical event that occurs when the Moon
+    passes between the Earth and the Sun, temporarily blocking the Sun's light and
+    casting a shadow on the Earth. During a solar eclipse, the Moon aligns in such
+    a way that it covers part or all of the Sun's disk as seen from a specific location
+    on Earth.
+  voiceClip: {fileID: 8300000, guid: 62d2b04d0e6fc5240a9d8b5ba0001d69, type: 3}
+  timeToShow: 10
+  isQuestion: 0

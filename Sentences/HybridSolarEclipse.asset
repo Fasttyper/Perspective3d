@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f6976b9372ec5d44b46350779f733e1, type: 3}
+  m_Name: HybridSolarEclipse
+  m_EditorClassIdentifier: 
+  sentenceName: HybridSolarEclipse
+  text: A hybrid solar eclipse, also known as a "annular-total eclipse," is a rare
+    type of eclipse that starts as an annular eclipse and transitions into a total
+    eclipse (or vice versa) along its path of totality. The type of eclipse experienced
+    at a specific location along the path depends on various factors, including the
+    observer's position and the relative distances between the Earth, Moon, and Sun.
+  voiceClip: {fileID: 0}
+  timeToShow: 10
+  isQuestion: 0
